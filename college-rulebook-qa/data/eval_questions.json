@@ -1,0 +1,12 @@
+[
+  {"category": "Attendance", "question": "What is the minimum attendance needed to write the end-semester exam?", "expected_page": 2, "keywords": ["75%"]},
+  {"category": "Attendance", "question": "My attendance is 68% because I was sick. What can I do?", "expected_page": 2, "keywords": ["condonation", "1,000"]},
+  {"category": "Assessment", "question": "How many marks are internal and how many external for a theory course?", "expected_page": 3, "keywords": ["40", "60"]},
+  {"category": "Assessment", "question": "I missed my mid-term test due to fever. Can I get a re-test?", "expected_page": 3, "keywords": ["5 working days"]},
+  {"category": "Exams", "question": "Can I take my smart watch into the exam hall if it is switched off?", "expected_page": 3, "keywords": ["switched off"]},
+  {"category": "Exams", "question": "What is the fee for revaluation and what is the deadline?", "expected_page": 4, "keywords": ["700", "10 days"]},
+  {"category": "Exams", "question": "How do I convert my CGPA into percentage?", "expected_page": 4, "keywords": ["9.5"]},
+  {"category": "Facilities", "question": "What is the fine for returning a library book late?", "expected_page": 6, "keywords": ["per day"]},
+  {"category": "Out of scope", "question": "Who is the placement officer and what is the average package?", "expected_page": null, "keywords": []},
+  {"category": "Out of scope", "question": "Is there a bus facility from the railway station to the college?", "expected_page": null, "keywords": []}
+]
