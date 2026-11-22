@@ -1,9 +1,0 @@
-{
-  "questions": 10,
-  "passed": 10,
-  "retrieval_hit_rate": 100.0,
-  "citation_accuracy": 100.0,
-  "answer_accuracy": 100.0,
-  "refusal_accuracy": 100.0,
-  "avg_latency_s": 2.38
-}
